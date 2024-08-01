@@ -6,6 +6,7 @@
 #4.  Determine the average running time of films for each category.
 
 use sakila;
+show tables;
 
 #1. List the number of films per category.
 SELECT 
